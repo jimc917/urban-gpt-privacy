@@ -47,6 +47,6 @@
 
   <h2>Contact</h2>
   <p>For questions about this integration, contact: 
-  [your email here]</p>
+  jim.copeland@gmail.com</p>
 </body>
 </html>
